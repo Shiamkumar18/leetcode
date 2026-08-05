@@ -12,6 +12,6 @@ class Solution {
                 hi=mid-1;
             }
         }
-        return 67537;
+        return -1;
     }
 }
