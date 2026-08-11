@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shiamkumar18/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Shiamkumar18/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shiamkumar18/leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Shiamkumar18/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shiamkumar18/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shiamkumar18/leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
