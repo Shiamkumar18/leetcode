@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shiamkumar18/leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shiamkumar18/leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Shiamkumar18/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Shiamkumar18/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shiamkumar18/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shiamkumar18/leetcode/tree/master/0867-transpose-matrix) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shiamkumar18/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Shiamkumar18/leetcode/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/Shiamkumar18/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shiamkumar18/leetcode/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shiamkumar18/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
