@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shiamkumar18/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shiamkumar18/leetcode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shiamkumar18/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3731-find-missing-elements](https://github.com/Shiamkumar18/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Shiamkumar18/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Shiamkumar18/leetcode/tree/master/0169-majority-element) |
 | [0560-subarray-sum-equals-k](https://github.com/Shiamkumar18/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [3731-find-missing-elements](https://github.com/Shiamkumar18/leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Shiamkumar18/leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Shiamkumar18/leetcode/tree/master/0169-majority-element) |
+| [3731-find-missing-elements](https://github.com/Shiamkumar18/leetcode/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
 | ------- |
