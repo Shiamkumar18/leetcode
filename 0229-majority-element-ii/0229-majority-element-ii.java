@@ -1,26 +1,37 @@
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-
         int n = nums.length;
+        int count1 = 0, count2 = 0;
+        int element1 = Integer.MIN_VALUE, element2 = Integer.MIN_VALUE;
 
-        List<Integer> list = new ArrayList<>();
-
-        for (int i = 0; i < n ; i++) {
-            if (list.size() == 0 || list.get(0) != nums[i] && (list.size() < 2 || list.get(1) != nums[i])) {
-                int count = 0;
-                for (int j = 0; j < n; j++) {
-                    if (nums[j] == nums[i]) {
-                        count++;
-                    }
-                }
-                if (count > n / 3) {
-                    list.add(nums[i]);
-                }
-                if (list.size() == 2)
-                    break;
+        for (int i = 0; i < n; i++) {
+            if (count1 == 0 && element2!=nums[i]) {
+                count1 = 1;
+                element1 = nums[i];
+            } else if (count2 == 0 && element1!=nums[i]) {
+                count2 = 1;
+                element2 = nums[i];
+            } else if (nums[i] == element1) {
+                count1++;
+            } else if (nums[i] == element2) {
+                count2++;
+            } else {
+                count1--;
+                count2--;
             }
-
         }
-        return list;
+         count1=0; count2=0;
+         for(int i=0; i<n; i++){
+            if(nums[i]==element1) count1++;
+            if(nums[i]==element2) count2++;
+         }
+
+         int mini = n/3+1;  // mini = minimum required count 
+        
+        List<Integer> ans = new ArrayList<>();
+
+        if(count1>=mini) ans.add(element1);
+        if(count2>=mini && element2!=element1) ans.add(element2);
+        return ans;
     }
 }
