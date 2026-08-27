@@ -4,6 +4,7 @@ class Solution {
         int element = 0;
         int count = 0;
 
+        // Boyer moore Voting algo ( simply say voting method)
         for (int i = 0; i < n; i++) {
             if (count == 0) {
                 count = 1;
