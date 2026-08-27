@@ -5,8 +5,8 @@ class Solution {
 
         List<Integer> list = new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            if (list.size() == 0 || list.get(0) != nums[i]) {
+        for (int i = 0; i < n ; i++) {
+            if (list.size() == 0 || list.get(0) != nums[i] && (list.size() < 2 || list.get(1) != nums[i])) {
                 int count = 0;
                 for (int j = 0; j < n; j++) {
                     if (nums[j] == nums[i]) {
