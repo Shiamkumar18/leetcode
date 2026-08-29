@@ -14,7 +14,7 @@ class Solution {
         int lo = 1;
         int hi = n - 2;
 
-        // look  odd even index 
+        // hint --> look  odd even index 
         while (lo <= hi) {
             int mid = lo + (hi - lo) / 2;
 
