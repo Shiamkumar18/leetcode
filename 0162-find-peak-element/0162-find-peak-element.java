@@ -3,8 +3,6 @@ class Solution {
         int lo =0;
         int hi=nums.length-1;
 
-        
-
         while(lo<hi){
             int mid = lo+(hi-lo)/2;
 
