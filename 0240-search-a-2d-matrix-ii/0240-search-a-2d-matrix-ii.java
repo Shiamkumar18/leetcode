@@ -1,6 +1,9 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
 
+        // time complxity O(n log m)
+        // space complxity o(1);
+
         int n =matrix.length;
         int m = matrix[0].length;
         
