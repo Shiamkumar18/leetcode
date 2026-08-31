@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shiamkumar18/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/Shiamkumar18/leetcode/tree/master/0867-transpose-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Shiamkumar18/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Shiamkumar18/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shiamkumar18/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Shiamkumar18/leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shiamkumar18/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shiamkumar18/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1539-kth-missing-positive-number](https://github.com/Shiamkumar18/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/Shiamkumar18/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Shiamkumar18/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Shiamkumar18/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/Shiamkumar18/leetcode/tree/master/0867-transpose-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/Shiamkumar18/leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Simulation
 |  |
 | ------- |
