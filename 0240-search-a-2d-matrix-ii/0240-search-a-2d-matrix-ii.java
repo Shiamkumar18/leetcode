@@ -1,36 +1,21 @@
 class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {
 
-        // time complxity O(n log m)
-        // space complxity o(1);
+        int n = matrix.length;
+        int m = matrix[0].length-1;
 
-        int n =matrix.length;
-        int m = matrix[0].length;
-        
+        int row=0;
+        int col=m;
 
-        for(int i =0; i<n; i++){
-            if(binarySearch(matrix[i],target)){
+        while(row<n && col>=0){
+            if(matrix[row][col]==target){
                 return true;
+            } else if(matrix[row][col]>target){
+                col--;
+            } else{
+                row++;
             }
         }
         return false;
     }
-
-    private boolean binarySearch(int [] matrix , int target){
-        int lo=0;
-        int hi=matrix.length-1;
-
-        while(lo<=hi){
-            int mid= lo+(hi-lo)/2;
-
-            if(matrix[mid]==target){
-                return true;
-            } else if(matrix[mid]<target){
-                lo=mid+1;
-            } else {
-                hi=mid-1;
-            }
-        }
-        return false;
-    }    
 }
