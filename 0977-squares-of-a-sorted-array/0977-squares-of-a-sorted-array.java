@@ -1,5 +1,6 @@
 class Solution {
     public int[] sortedSquares(int[] nums) {
+        
         int[] ans = new int [nums.length];
         int left =0;
         int right=nums.length-1;
@@ -23,3 +24,6 @@ class Solution {
         return ans ;
     }
 }
+
+// time complxity O(n)
+// space complxity O(n)
