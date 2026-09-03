@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Shiamkumar18/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3731-find-missing-elements](https://github.com/Shiamkumar18/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shiamkumar18/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shiamkumar18/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shiamkumar18/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shiamkumar18/leetcode/tree/master/0189-rotate-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shiamkumar18/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shiamkumar18/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Newton's Method
 |  |
 | ------- |
