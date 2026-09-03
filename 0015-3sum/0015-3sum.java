@@ -5,6 +5,7 @@ class Solution {
         int n = nums.length;
 
         for(int i =0; i<n; i++){
+            // skip duplicates for first element i  
             if(i>0 && nums[i]==nums[i-1]){
                 continue;
             }
