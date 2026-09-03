@@ -1,18 +1,23 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
-        int minOdd= Integer.MAX_VALUE;
-        int  minEven = Integer.MAX_VALUE;
+        int min=nums1[0];
 
-        for(int num: nums1){ // i----n-1;
-            if(num%2==0){
-                minEven=Math.min(minEven,num);
-            } else{
-                minOdd=Math.min(minOdd,num);
+        boolean allEven = true;
+        for(int num : nums1){
+            min=Math.min(min,num);
+
+            if(num%2!=0){
+                allEven=false;
             }
         }
-         if (minOdd == Integer.MAX_VALUE) {
-            return true;
-        }
-        return minOdd< minEven;
+            if(min%2!=0){
+                return true;
+            }
+
+            if(allEven){
+                return true;
+            }
+        
+        return false;
     }
 }
