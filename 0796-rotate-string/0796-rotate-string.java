@@ -1,11 +1,19 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
+        int n = s.length();
+        StringBuilder str = new StringBuilder(s);
 
-        // (s.length==goal.length || (s+s).contain(goal) )
+        while(true){
+            if(str.toString().equals(goal)) return true;
+            char ch = str.charAt(0);
+            str.deleteCharAt(0);
+            str.append(ch);
+            n--;
 
-        if(s.length()!= goal.length()){
-            return false;
+            if(n==0 && !str.toString().equals(goal)){
+                break;
+            }
         }
-        return (s+s).contains(goal);
+        return str.toString().equals(goal);
     }
 }
