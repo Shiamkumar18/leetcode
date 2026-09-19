@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Shiamkumar18/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Shiamkumar18/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shiamkumar18/leetcode/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/Shiamkumar18/leetcode/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Shiamkumar18/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shiamkumar18/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Shiamkumar18/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Shiamkumar18/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Shiamkumar18/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shiamkumar18/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Shiamkumar18/leetcode/tree/master/0509-fibonacci-number) |
 ## Union-Find
 |  |
 | ------- |
@@ -199,4 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Shiamkumar18/leetcode/tree/master/0796-rotate-string) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shiamkumar18/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Shiamkumar18/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
